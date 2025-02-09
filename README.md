@@ -11,6 +11,29 @@ This setup ensures that when processing the content of your PDF, any Markdown-sp
 
 The pdf_rag_chat.py is a plain console interacrive function that takes a PDF as an input and takes a question and answers according to the PDF's content.
 The output is as follows:
+
 ![image](https://github.com/user-attachments/assets/38152516-7eb7-4c07-9e45-9299c598ae2e)
+
+
+
+
+
+The pipecat_new folder has 2 python files pipecat_pdf_rag.py and pipecat_pdf_rag_Storytelling.py
+These involve pipecat.utils function to make use of MarkdownFilter. 
+
+![image](https://github.com/user-attachments/assets/f4521da3-4947-486f-964e-f20bd95a4bac)
+
+
+
+
+
+The stortelling chat answers to the questions in a bright Bavarian manner to make the answers more interesting!, as show below:
+![image](https://github.com/user-attachments/assets/a2fc5a8c-4a66-4623-a907-d51ed021c5b5)
+
+
+
+
+The usecase can be further taken to the next level by adding voice, vision and a better interface in the future!
+
 
 
